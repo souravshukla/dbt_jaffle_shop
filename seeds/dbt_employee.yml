@@ -1,0 +1,10 @@
+version: 2
+
+seeds:
+  - name: employee
+    description: A sample of employee data consisting of employee and customer
+    columns:
+      - name: employee_id
+        tests:
+          - unique
+          - not_null
