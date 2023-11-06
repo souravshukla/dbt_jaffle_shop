@@ -9,7 +9,7 @@ models:
         tests:
           - unique
           - not_null
-
+          
   - name: stg_orders
     description: Staged order data from our jaffle shop app.
     columns:
