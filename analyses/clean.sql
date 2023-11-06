@@ -1,1 +1,1 @@
-clean_slate_models(raw,jaffle_shop)
+clean_slate_models('raw','jaffle_shop')
